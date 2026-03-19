@@ -1,0 +1,22 @@
+Binary trees and trees 
+Basically binary is for database handling way of storing data and file handlining process .
+ We can  see it as a tree having branches leaf's and root  similar to that  key Terminologies of a Binary tree is same 
+
+
+              There is the thing i just learned that improving the structure of Answering  . Before my answer was not clear. They are passive but not truely passive they are not hint seems to be hint. Lets active
+
+The key concept in Binary trees are :
+                             
+                                     nodes  :  Element (Stores for  data)
+                                     Root   :  Starting node or First node or Top node
+                                     Parent :  node with children .first relation between root and child,
+                                               It aslo define there will be next node rather than root can also be counted as Parent node(in reallity i want to say that)  
+                                     Child  :  It is the third node for a data structure and indicates that it is forming a proper binary tree. 
+                                               if the tree ends here this becomes the leaf (naming for this one is leaf).
+                                     Leaf   :  These are last node of the tree named as leaf. end of the node.
+                                     Height : 
+
+        here, first thing we see is Root - (starting point of the root).
+                                           here root is the main part of a binary tree (also a parent)(ahead approach here if we awake we can sense what is next)................
+              
+              Second thing is that Parent - Parent is a child of a root Majorly they are .(this is for prediction not for the next thing not the answer) 
